@@ -1,4 +1,4 @@
-package Day5;
+//package Day5;
 
 public class Rightpattern {
     public static void main(String[] args) {

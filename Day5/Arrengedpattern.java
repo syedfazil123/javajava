@@ -1,4 +1,4 @@
-package Day5;
+//package Day5;
 
 public class Arrengedpattern {
     public static void main(String[] args) {
